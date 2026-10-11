@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [Google-Maps]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/maps/"
+archive-dlurl = "https://archive.org/download/vee3ee-apks/vee3ee-apks/"
 patches-source = "bearinmindcat/morphe-patches"
 cli-source = "MorpheApp/morphe-desktop"
 rv-brand = "Morphe"
