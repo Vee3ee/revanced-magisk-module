@@ -7,8 +7,9 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Google-Maps]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/maps/"
-archive-dlurl = "https://archive.org/download/vee3ee-apks/vee3ee-apks/"
+direct-dlurl = "https://archive.org/download/vee3ee-apks/vee3ee-apks/com.google.android.apps.maps_26.36.04.973607363.apk"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/maps/"
+# archive-dlurl = "https://archive.org/download/vee3ee-apks/vee3ee-apks/"
 patches-source = "bearinmindcat/morphe-patches"
 cli-source = "MorpheApp/morphe-desktop"
 rv-brand = "Morphe"
