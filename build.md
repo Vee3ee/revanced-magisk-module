@@ -11,4 +11,4 @@ Patches: SysAdminDoc/HushMessenger/patches-0.23.0.mpp
 CLI: MorpheApp/morphe-desktop/morphe-desktop-1.18.1-all.jar    
 
 Skipped:  
-Patches: bearinmindcat/morphe-patches/patches-2.4.0.mpp    
+Patches: bearinmindcat/morphe-patches/patches-2.4.0.mpp      
