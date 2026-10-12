@@ -21,3 +21,4 @@ archive-dlurl = "https://archive.org/download/vee3ee-apks/vee3ee-apks/apks/com.f
 patches-source = "SysAdminDoc/HushMessenger"
 cli-source = "MorpheApp/morphe-desktop"
 rv-brand = "SysAdminDoc"
+arch = "arm64-v8a"
